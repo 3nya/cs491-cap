@@ -22,6 +22,28 @@ int main() {
     for (int i = 1; i < n; i++) {
         psum[i] = v[i] + psum[i - 1];
     }
+
+    ll left = 0;
+    ll right = 0;
+    ll count = 0;
+    while (left < n) {
+        ll sum = psum[right] - psum[left];
+        if (left == 0) {
+            sum = psum[right];
+        }
+        if (sum < s) {
+            right++;
+            count++;
+        } else {
+            left++;
+            right = left;
+        }
+        if (right >= n) {
+            left++;
+            right = left;
+        }
+    }
+    cout << count << endl;
     
 
 }

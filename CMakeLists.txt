@@ -10,4 +10,6 @@ add_executable(cs491
         classwork/cw129A.cpp
         "1-29 complete search hw/a.cpp"
         "1-29 complete search hw/b.cpp"
-        classwork/cw131A.cpp)
+        classwork/cw131A.cpp
+        "1-31 divide and conquer/a.cpp"
+        "1-31 divide and conquer/b.cpp")
