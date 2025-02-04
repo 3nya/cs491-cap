@@ -103,6 +103,12 @@ build CMakeFiles/cs491.dir/1-31_divide_and_conquer/b.cpp.obj: CXX_COMPILER__cs49
   OBJECT_DIR = CMakeFiles\cs491.dir
   OBJECT_FILE_DIR = CMakeFiles\cs491.dir\1-31_divide_and_conquer
 
+build CMakeFiles/cs491.dir/classwork/cw293A.cpp.obj: CXX_COMPILER__cs491_unscanned_Debug C$:/Users/acetu/CLionProjects/cs491/classwork/cw293A.cpp || cmake_object_order_depends_target_cs491
+  DEP_FILE = CMakeFiles\cs491.dir\classwork\cw293A.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\cs491.dir
+  OBJECT_FILE_DIR = CMakeFiles\cs491.dir\classwork
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cs491
@@ -111,7 +117,7 @@ build CMakeFiles/cs491.dir/1-31_divide_and_conquer/b.cpp.obj: CXX_COMPILER__cs49
 #############################################
 # Link the executable cs491.exe
 
-build cs491.exe: CXX_EXECUTABLE_LINKER__cs491_Debug CMakeFiles/cs491.dir/1-27_stl_hw/stl_hw1.cpp.obj CMakeFiles/cs491.dir/1-27_stl_hw/stl_hw2.cpp.obj CMakeFiles/cs491.dir/1-27_stl_hw/stl_hw3.cpp.obj CMakeFiles/cs491.dir/classwork/cw129A.cpp.obj CMakeFiles/cs491.dir/1-29_complete_search_hw/a.cpp.obj CMakeFiles/cs491.dir/1-29_complete_search_hw/b.cpp.obj CMakeFiles/cs491.dir/classwork/cw131A.cpp.obj CMakeFiles/cs491.dir/1-31_divide_and_conquer/a.cpp.obj CMakeFiles/cs491.dir/1-31_divide_and_conquer/b.cpp.obj
+build cs491.exe: CXX_EXECUTABLE_LINKER__cs491_Debug CMakeFiles/cs491.dir/1-27_stl_hw/stl_hw1.cpp.obj CMakeFiles/cs491.dir/1-27_stl_hw/stl_hw2.cpp.obj CMakeFiles/cs491.dir/1-27_stl_hw/stl_hw3.cpp.obj CMakeFiles/cs491.dir/classwork/cw129A.cpp.obj CMakeFiles/cs491.dir/1-29_complete_search_hw/a.cpp.obj CMakeFiles/cs491.dir/1-29_complete_search_hw/b.cpp.obj CMakeFiles/cs491.dir/classwork/cw131A.cpp.obj CMakeFiles/cs491.dir/1-31_divide_and_conquer/a.cpp.obj CMakeFiles/cs491.dir/1-31_divide_and_conquer/b.cpp.obj CMakeFiles/cs491.dir/classwork/cw293A.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\cs491.dir
