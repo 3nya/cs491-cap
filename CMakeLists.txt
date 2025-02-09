@@ -14,4 +14,6 @@ add_executable(cs491
         "1-31 divide and conquer/a.cpp"
         "1-31 divide and conquer/b.cpp"
         classwork/cw203A.cpp
-        "2-3 disjoint sets/a.cpp")
+        "2-3 disjoint sets/a.cpp"
+        classwork/cw205A.cpp
+        "2-6 BST/a.cpp")
