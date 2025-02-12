@@ -18,4 +18,5 @@ add_executable(cs491
         classwork/cw205A.cpp
         "2-6 BST/a.cpp"
         "2-6 BST/b.cpp"
-        classwork/cw210A.cpp)
+        classwork/cw210A.cpp
+        "2-10 graph/a.cpp")
