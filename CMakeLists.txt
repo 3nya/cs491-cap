@@ -20,4 +20,6 @@ add_executable(cs491
         "2-6 BST/b.cpp"
         classwork/cw210A.cpp
         "2-10 graph/a.cpp"
-        "2-12 shortest path/a .cpp")
+        "2-12 shortest path/a .cpp"
+        "2-12 shortest path/b.cpp"
+        classwork/cw212A.cpp)
