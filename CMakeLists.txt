@@ -22,4 +22,5 @@ add_executable(cs491
         "2-10 graph/a.cpp"
         "2-12 shortest path/a .cpp"
         "2-12 shortest path/b.cpp"
-        classwork/cw212A.cpp)
+        classwork/cw212A.cpp
+        classwork/cw217A.cpp)
