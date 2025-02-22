@@ -23,4 +23,5 @@ add_executable(cs491
         "2-12 shortest path/a .cpp"
         "2-12 shortest path/b.cpp"
         classwork/cw212A.cpp
-        classwork/cw217A.cpp)
+        classwork/cw217A.cpp
+        "2-20 all pairs shortest path/a.cpp")
