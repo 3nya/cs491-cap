@@ -3,3 +3,6 @@
 
 # Ignore the CMake build directory
 cmake-build-debug/
+
+# Ignore Makefile
+*.txt
