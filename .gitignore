@@ -6,3 +6,7 @@ cmake-build-debug/
 
 # Ignore Makefile
 *.txt
+
+# vscode stuff
+.vscode/
+.idea/
