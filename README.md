@@ -1,5 +1,7 @@
 # cs491-cap 
 
-Bc i need more incentives to do hw
+My solutions for CS491-CAP, a competitive programming class at UIUC.
 
-im on clion btw because my vscode is weird with cpp
+Problems are estimated rated 1000-2000. Problem is listed in the commit message. 
+
+[My template!](template.cpp)
